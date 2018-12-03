@@ -19,7 +19,7 @@ rho=1
 threshold=10
 theta=np.pi/180
 minLineLength=0
-maxLineGap=10
+maxLineGap=0
 
 #Initialize camera
 camera = PiCamera()
